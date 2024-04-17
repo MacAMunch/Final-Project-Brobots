@@ -873,6 +873,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 232587448506423036, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"moveSpeed","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"jumpPower","value":{"$content":-8.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"isGrounded","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"onWall","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"isJumping","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"canJump","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 930743053433619231, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.59
@@ -911,6 +921,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 930743053433619231, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2013180347536636171, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_Size.x
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 2013180347536636171, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_Size.y
+      value: 0.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 2013180347536636171, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.25172627
+      objectReference: {fileID: 0}
+    - target: {fileID: 7566172446830185924, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7566172446830185924, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_Offset.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9102274954322524942, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
