@@ -846,7 +846,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1923626421
@@ -957,10 +957,34 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2013180347536636171, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2013180347536636171, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2013180347536636171, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1.25
+      objectReference: {fileID: 0}
     - target: {fileID: 5009590906450115478, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -1233400447, guid: 47e7f77cb343f491cae8dc0b90df7ab5, type: 3}
+    - target: {fileID: 5009590906450115478, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5009590906450115478, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5009590906450115478, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9102274954322524942, guid: 3d0de5fcc2a00cf4db2cd1ca2f9e20fb, type: 3}
       propertyPath: m_Name
       value: Gus
