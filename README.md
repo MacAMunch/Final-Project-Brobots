@@ -2,6 +2,7 @@
 Final Project with Brobots: Gus Goomba Game
 
 Features Added and By Who
+
 Jaiden Gray - Art, Tilemaps, and coding/level design
 
 Lopati McQueen - Music, UI, and coding/level design 
