@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 24121f69df234426282b3525537aa7c9
+=======
+guid: e8f0f4ba6f348d74e8474e6c6256fab9
+>>>>>>> 43e526d34c5b493da2edc79fa75d3c0a9caf0688
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +47,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
+<<<<<<< HEAD
+  spriteMode: 2
+=======
   spriteMode: 1
+>>>>>>> 43e526d34c5b493da2edc79fa75d3c0a9caf0688
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +116,158 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
+    sprites:
+    - serializedVersion: 2
+      name: Luigi_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 165
+        width: 75
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a61577b801ee4d95bf5c02292c9cb8b
+      internalID: -1000181481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luigi_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 170
+        width: 75
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d426cc8de004588b8922c2581acc13
+      internalID: 979819384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luigi_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 165
+        width: 80
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c45a99eca94a435f97be55b0b516f3d
+      internalID: 1645223034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luigi_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 85
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88102c753cd97433bac0ffd31e174ffe
+      internalID: -1516525611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luigi_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5
+        width: 80
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0def40c8caa404802a109f971a84ba9c
+      internalID: 410723191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luigi_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 5
+        width: 85
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f09c9274734c9e9a666e6f6b6beb0
+      internalID: 250244128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luigi_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 5
+        width: 80
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4057ecdd4e3af4d3693fb7406602e3c3
+      internalID: -2099062232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+=======
     sprites: []
+>>>>>>> 43e526d34c5b493da2edc79fa75d3c0a9caf0688
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +278,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<< HEAD
+    nameFileIdTable:
+      Luigi_0: -1000181481
+      Luigi_1: 979819384
+      Luigi_2: 1645223034
+      Luigi_3: -1516525611
+      Luigi_4: 410723191
+      Luigi_5: 250244128
+      Luigi_6: -2099062232
+=======
     nameFileIdTable: {}
+>>>>>>> 43e526d34c5b493da2edc79fa75d3c0a9caf0688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
