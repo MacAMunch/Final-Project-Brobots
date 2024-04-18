@@ -115,7 +115,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 640
-        width: 240
+        width: 252
         height: 320
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -134,9 +134,9 @@ TextureImporter:
       name: Decore_1
       rect:
         serializedVersion: 2
-        x: 240
+        x: 252
         y: 640
-        width: 240
+        width: 252
         height: 320
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -157,7 +157,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 320
-        width: 240
+        width: 252
         height: 320
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -176,9 +176,9 @@ TextureImporter:
       name: Decore_3
       rect:
         serializedVersion: 2
-        x: 240
+        x: 252
         y: 320
-        width: 240
+        width: 252
         height: 320
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -199,7 +199,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 240
+        width: 252
         height: 320
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -218,9 +218,9 @@ TextureImporter:
       name: Decore_5
       rect:
         serializedVersion: 2
-        x: 240
+        x: 252
         y: 0
-        width: 240
+        width: 252
         height: 320
       alignment: 0
       pivot: {x: 0, y: 0}
