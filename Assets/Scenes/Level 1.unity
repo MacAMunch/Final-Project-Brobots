@@ -6242,6 +6242,7 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f4b49f69874519341851905f2551de45, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &175121235664792588
 =======
 --- !u!1001 &7718343620208200787
@@ -6353,6 +6354,8 @@ PrefabInstance:
 =======
   m_SourcePrefab: {fileID: 100100000, guid: 637d6b5e96ad5a9499ed56bcc9f93294, type: 3}
 >>>>>>> 37add911350ba12cb3824937078f34e3bf956460
+=======
+>>>>>>> parent of e6f0a82 (end level)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -6372,7 +6375,10 @@ SceneRoots:
   - {fileID: 834272468}
   - {fileID: 2071685833}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 175121235664792588}
 =======
   - {fileID: 7718343620208200787}
 >>>>>>> 37add911350ba12cb3824937078f34e3bf956460
+=======
+>>>>>>> parent of e6f0a82 (end level)
